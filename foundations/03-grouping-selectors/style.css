@@ -1,0 +1,14 @@
+.def-size{
+    font-size: 28px;
+    font-family: 'Helvetica', 'sans-serif','Times New Roman';
+}
+
+#but1{
+    background-color: black;
+    color:white;
+}
+
+#but2{
+    background-color: yellow;
+}
+
